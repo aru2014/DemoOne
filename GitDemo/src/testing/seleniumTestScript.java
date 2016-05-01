@@ -6,9 +6,9 @@ public class seleniumTestScript {
 		// TODO Auto-generated method stub
  System.out.println("y trial");
  System.out.println("N trial");
- System.out.println("3 trial");
- System.out.println("4 trial");
- System.out.println("5 trial");
+ System.out.println("Thrid trial");
+ System.out.println("Fourth trial");
+ System.out.println("Fifth trial");
 	}
 
 }
