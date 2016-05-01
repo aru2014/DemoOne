@@ -6,6 +6,7 @@ public class seleniumTestScript {
 		// TODO Auto-generated method stub
  System.out.println("y trial");
  System.out.println("N trial");
+ System.out.println("3 trial");
 	}
 
 }
